@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "part3/phonebook",
+			"problemMatcher": [],
+			"label": "npm: start - part3/phonebook",
+			"detail": "node index.js"
+		}
+	]
+}
